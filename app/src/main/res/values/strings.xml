@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BCS421 HW 1</string>
+    <string name="author">Harvey Tseng</string>
 </resources>
